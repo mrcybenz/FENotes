@@ -1,0 +1,26 @@
+{
+  "name": "FENotes",
+  "version": "1.0.0",
+  "description": "前端笔记",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybmws/FENotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybmws/FENotes/issues"
+  },
+  "homepage": "https://github.com/cybmws/FENotes#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
